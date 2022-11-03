@@ -48,9 +48,12 @@
 }
 @media screen and (max-width: 375px) {
     .barcode-container{
-        max-width: 180px;
+        max-width: 200px;
     }
     .barcode-container img{
         max-width: 180px;
+    }
+    .qr-section{
+        padding: 5vh;
     }
 }
