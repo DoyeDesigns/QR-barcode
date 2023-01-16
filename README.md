@@ -23,7 +23,7 @@ Users should be able to:
 - Css flexbox
 
 ## Links
- live site url - https://doyedesigns.github.io/product-card/
+ live site url - https://doyedesigns.github.io/QR-barcode/
 
  Frontend Mentor QR barcode component challenge - https://www.frontendmentor.io/solutions/responsive-qrbarcode-page-using-media-query-tQmbRPBfku
 
